@@ -1,0 +1,12 @@
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\bin\Debug\CS322-PZ-MilanRadeljic2865.exe.config
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\bin\Debug\CS322-PZ-MilanRadeljic2865.exe
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\bin\Debug\CS322-PZ-MilanRadeljic2865.pdb
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\obj\Debug\CS322_PZ_MilanRadeljic2865.Form1.resources
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\obj\Debug\CS322_PZ_MilanRadeljic2865.Properties.Resources.resources
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\obj\Debug\CS322-PZ-MilanRadeljic2865.csproj.GenerateResource.cache
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\obj\Debug\CS322-PZ-MilanRadeljic2865.csproj.CoreCompileInputs.cache
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\obj\Debug\CS322-PZ-MilanRadeljic2865.exe
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\obj\Debug\CS322-PZ-MilanRadeljic2865.pdb
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\bin\Debug\Lokal.mdf
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\bin\Debug\Lokal_log.ldf
+C:\Users\mrade\source\repos\Projekat\CS322-PZ-MilanRadeljic2865\CS322-PZ-MilanRadeljic2865\obj\Debug\CS322-PZ-MilanRadeljic2865.csprojAssemblyReference.cache
